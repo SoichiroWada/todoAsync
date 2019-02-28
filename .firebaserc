@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "reduxtest": "addtodo-redux",
+    "default": "addtodo-redux"
+  }
+}
